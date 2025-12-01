@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following paper."
+title: "A Harmonic Field Model of Consciousness in the Human Brain"
+authors:
+  - family-names: "Smart"
+    given-names: "Lee"
+    affiliation: "Independent Researcher, Vibrational Field Dynamics Project"
+    email: "contact@vibrationalfielddynamics.org"
+identifiers:
+  - type: url
+    value: "https://github.com/vfd-org/harmonic-field-consciousness"
+repository-code: "https://github.com/vfd-org/harmonic-field-consciousness"
+version: "1.0.0"
+date-released: 2025-12-01
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Smart"
+      given-names: "Lee"
+  title: "A Harmonic Field Model of Consciousness in the Human Brain"
+  year: 2025
+  url: "https://github.com/vfd-org/harmonic-field-consciousness"
